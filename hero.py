@@ -30,4 +30,3 @@ Hero.print_name_hero()
 Hero.print_health()
 Hero.__len__()
 print(Hero)
-
